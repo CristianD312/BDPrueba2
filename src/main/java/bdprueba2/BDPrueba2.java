@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class BDPrueba2 {
-
+ //Darío estuvo acá
     // Datos de conexión a la base de datos MySQL
     private static final String URL = "jdbc:mysql://localhost:3306/Prueba2";
     private static final String USUARIO = "Root";
