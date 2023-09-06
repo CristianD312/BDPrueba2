@@ -11,6 +11,7 @@ public class BDPrueba2 {
     private static final String URL = "jdbc:mysql://localhost:3306/Prueba2";
     private static final String USUARIO = "Root";
     private static final String CONTRASEÑA = "";
+    // revisar el codigo!!!!
 
     public static void main(String[] args) {
         Connection connection = null;
